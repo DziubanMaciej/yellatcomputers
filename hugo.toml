@@ -1,0 +1,8 @@
+baseURL = 'https://DziubanMaciej.github.io/yellatcomputers'
+summaryLength = 20
+locale = 'en-us'
+title = 'I yell at computers'
+theme = 'hugo-paper'
+
+[params]
+    color = 'wheat'

@@ -1,0 +1,8 @@
+/* Place custom css here. */
+.prose {
+  max-width: 90ch !important;
+}
+.prose code::before,
+.prose code::after {
+  content: none !important;
+}
