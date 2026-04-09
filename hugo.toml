@@ -4,5 +4,9 @@ locale = 'en-us'
 title = 'I yell at computers'
 theme = 'hugo-paper'
 
+[services]
+  [services.disqus]
+    shortname = 'yellatcomputers'
+
 [params]
     color = 'wheat'
